@@ -1,13 +1,31 @@
 .bt1{
-    background-color:  rgb(47, 41, 41) !important;
-    color: rgb(255, 230, 54);
+    background-color:  rgb(2, 27, 109) !important;
+    color: rgb(247, 246, 241);
+    margin: 30px;
+    padding: 10px;
+    border-radius: 70px;
+    margin-bottom: 70px;
 }
+
+.bt2{
+    background-color:  rgb(4, 100, 196) !important;
+    color: rgb(241, 245, 241);
+    margin: 30px;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+
 .sh1{
-    box-shadow: 0 0 10px 10px #d3d1d1 !important;
+    box-shadow: 0 0 15px 5px #d3d1d1 !important;
+    border-radius: 40px;
 }
 .cc1{
-    color: rgb(255, 230, 54) !important;
+    color: rgb(250, 250, 248) !important;
+    padding: 14px;
     
+  
 
 }
 /* .cc1:hover, */
@@ -15,7 +33,7 @@
     color: white !important;
 }
 .cc2{
-    color:rgb(47, 41, 41) !important;
+    color:rgb(19, 90, 233) !important;
     /* width: 1px !important;
     height: 1px !important; */
 

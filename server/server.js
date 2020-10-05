@@ -18,4 +18,4 @@ app.listen(process.env.PORT || 8000, function () {
 });
 
 // Connect to mongodb database
-mongoose.connect("mongodb://abilakshan:365463999@testcluster-shard-00-00.dzprx.mongodb.net:27017,testcluster-shard-00-01.dzprx.mongodb.net:27017,testcluster-shard-00-02.dzprx.mongodb.net:27017/funwork2?ssl=true&replicaSet=atlas-1tufku-shard-0&authSource=admin&retryWrites=true&w=majority",{ useNewUrlParser: true,useUnifiedTopology: true  });
+mongoose.connect("mongodb+srv://vithuzan:2001@textcluster.isftw.mongodb.net/funwork2?retryWrites=true&w=majority",{ useNewUrlParser: true,useUnifiedTopology: true  });

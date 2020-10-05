@@ -10,7 +10,7 @@ module.exports = createReactClass({
            <div className="row">
            <div className="col-md-6 offset-3 "><br/>
            <br/>
-              <img className="img1"width="600px" height="400px" src="https://softwaremanagerblog.com/wp-content/uploads/2019/06/consulting-2204253_1280-e1561028650564-1024x611.png"/>
+              <img className="img1"width="600px" height="400px" src="https://previews.123rf.com/images/rastudio/rastudio1601/rastudio160100865/50292248-%EC%86%90%EC%97%90-%EA%B2%8C%EC%9E%84-%ED%8C%A8%EB%93%9C%EC%99%80-%EB%B9%84%EB%94%94%EC%98%A4-%EA%B2%8C%EC%9E%84%EC%9D%84%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C-%EB%B2%A1%ED%84%B0-%ED%8F%89%EB%A9%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8-%EB%A0%88%EC%9D%B4-%EC%85%98-%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EA%B3%A0%EB%A6%BD-.jpg"/>
            </div>
                 <div className="col-md-6 offset-3">
                     <AddSchool />
